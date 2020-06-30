@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title:  "Advanced Mortgage Calculator"
+date:   2020-0630-22 16:32:39 +0300
+jsarr:
+        - assets/js/mortgage-calculator.js
+categories: Javascript
